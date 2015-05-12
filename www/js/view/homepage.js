@@ -3,7 +3,7 @@ var HomePage = Backbone.View.extend({
         el: $('#content'),
 
         events: {
-
+            'click button#btnlogout' : 'perform_logout'
         },
 
         initialize: function() {
@@ -23,6 +23,17 @@ var HomePage = Backbone.View.extend({
 
             $(this.el).html(html);
             $(this.el).trigger('create');
+
+        },
+
+        perform_logout: function() {
+
+            if (user) {
+                user.set("name", "");
+                console.log('User logout ');
+            }
+
+            router.navigate('', {trigger: true});
 
         },
 
