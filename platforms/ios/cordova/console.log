@@ -145,3 +145,61 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-12 16:16:12.054 HelloCordova[1087:8968] ERROR: Start Page at 'www/index.html' was not found.
 2015-05-12 16:16:12.232 HelloCordova[1087:8968] Resetting plugins due to page load.
 2015-05-12 16:16:12.256 HelloCordova[1087:8968] Finished load of: about:blank
+2015-05-12 17:51:25.734 SmartCordova[3231:38706] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/C8AC6CC8-45D1-4A0A-BC44-AFA6A5AB56C6/data/Containers/Data/Application/FD3CC085-A146-4CE1-8D78-558B343DF0F2/Library/Cookies/Cookies.binarycookies
+2015-05-12 17:51:25.836 SmartCordova[3231:38706] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 17:51:25.837 SmartCordova[3231:38706] Multi-tasking -> Device: YES, App: YES
+2015-05-12 17:51:25.839 SmartCordova[3231:38706] Unlimited access to network resources
+2015-05-12 17:51:25.841 SmartCordova[3231:38706] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 17:51:26.093 SmartCordova[3231:38706] Resetting plugins due to page load.
+2015-05-12 17:51:26.204 SmartCordova[3231:38706] Finished load of: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/C8AC6CC8-45D1-4A0A-BC44-AFA6A5AB56C6/data/Containers/Bundle/Application/C999AD09-B163-4946-BDD6-938B6E748807/SmartCordova.app/www/index.html
+2015-05-12 17:51:44.210 SmartCordova[3231:38931] Terminating since there is no system app.
+2015-05-13 13:34:52.770 SmartCordova[1304:31547] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/C8AC6CC8-45D1-4A0A-BC44-AFA6A5AB56C6/data/Containers/Data/Application/8CBDD7C3-E18E-4150-896E-6CE2BCCCCE75/Library/Cookies/Cookies.binarycookies
+2015-05-13 13:34:53.007 SmartCordova[1304:31547] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-13 13:34:53.007 SmartCordova[1304:31547] Multi-tasking -> Device: YES, App: YES
+2015-05-13 13:34:53.020 SmartCordova[1304:31547] Unlimited access to network resources
+2015-05-13 13:34:53.028 SmartCordova[1304:31547] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-13 13:34:53.533 SmartCordova[1304:31547] Resetting plugins due to page load.
+2015-05-13 13:34:53.807 SmartCordova[1304:31547] Finished load of: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/C8AC6CC8-45D1-4A0A-BC44-AFA6A5AB56C6/data/Containers/Bundle/Application/53BF3179-A416-4B0B-9185-7CC3CA3E4F55/SmartCordova.app/www/index.html
+2015-06-08 11:48:28.014 SmartCordova[1154:30641] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/C8AC6CC8-45D1-4A0A-BC44-AFA6A5AB56C6/data/Containers/Data/Application/65496E58-053A-4A03-8366-6C850182A546/Library/Cookies/Cookies.binarycookies
+2015-06-08 11:48:28.253 SmartCordova[1154:30641] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-08 11:48:28.253 SmartCordova[1154:30641] Multi-tasking -> Device: YES, App: YES
+2015-06-08 11:48:28.264 SmartCordova[1154:30641] Unlimited access to network resources
+2015-06-08 11:48:28.272 SmartCordova[1154:30641] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-08 11:48:28.738 SmartCordova[1154:30641] Resetting plugins due to page load.
+2015-06-08 11:48:29.022 SmartCordova[1154:30641] Finished load of: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/C8AC6CC8-45D1-4A0A-BC44-AFA6A5AB56C6/data/Containers/Bundle/Application/A1CE8B30-EBD0-492D-9937-D73B80D87418/SmartCordova.app/www/index.html
+2015-08-24 16:10:53.436 SmartCordova[2446:53115] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/B9C3FEDA-EB7B-48F4-B7CD-63F5BD312829/data/Containers/Data/Application/5AF9DFC6-3C12-47DD-9DA2-CC79A8EC982E/Library/Cookies/Cookies.binarycookies
+2015-08-24 16:10:53.673 SmartCordova[2446:53115] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-24 16:10:53.674 SmartCordova[2446:53115] Multi-tasking -> Device: YES, App: YES
+2015-08-24 16:10:53.689 SmartCordova[2446:53115] Unlimited access to network resources
+2015-08-24 16:10:53.697 SmartCordova[2446:53115] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-24 16:10:54.399 SmartCordova[2446:53115] Resetting plugins due to page load.
+2015-08-24 16:10:54.659 SmartCordova[2446:53115] Finished load of: file:///Users/guildenstern1/Library/Developer/CoreSimulator/Devices/B9C3FEDA-EB7B-48F4-B7CD-63F5BD312829/data/Containers/Bundle/Application/A261E7A7-4DD6-470B-8353-F9E50A9D27FF/SmartCordova.app/www/index.html
+2015-08-24 16:11:20.543 SmartCordova[2446:53498] Terminating since there is no system app.
